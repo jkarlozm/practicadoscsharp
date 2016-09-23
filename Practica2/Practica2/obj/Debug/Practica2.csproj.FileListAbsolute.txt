@@ -1,0 +1,61 @@
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Practica2\Practica2\bin\Debug\Practica2.exe
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Practica2\Practica2\bin\Debug\Practica2.pdb
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Practica2\Practica2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Practica2\Practica2\obj\Debug\Practica2.Form1.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Practica2\Practica2\obj\Debug\Practica2.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Practica2\Practica2\obj\Debug\Practica2.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Practica2\Practica2\obj\Debug\Practica2.exe
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Practica2\Practica2\obj\Debug\Practica2.pdb
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Practica2\Practica2\bin\Debug\Prac2venta.dll
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Practica2\Practica2\bin\Debug\Prac2venta.pdb
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Practica2\Practica2\bin\Debug\Prac2Vendedor.dll
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Practica2\Practica2\bin\Debug\Prac2Vendedor.pdb
+D:\7º\Programacion\Projects\P2\Practica2\Practica2\obj\Debug\Practica2.exe
+D:\7º\Programacion\Projects\P2\Practica2\Practica2\obj\Debug\Practica2.pdb
+D:\7º\Programacion\Projects\P2\Practica2\Practica2\bin\Debug\Practica2.exe
+D:\7º\Programacion\Projects\P2\Practica2\Practica2\bin\Debug\Practica2.pdb
+D:\7º\Programacion\Projects\P2\Practica2\Practica2\bin\Debug\Prac2Vendedor.dll
+D:\7º\Programacion\Projects\P2\Practica2\Practica2\bin\Debug\Prac2venta.dll
+D:\7º\Programacion\Projects\P2\Practica2\Practica2\bin\Debug\Prac2Vendedor.pdb
+D:\7º\Programacion\Projects\P2\Practica2\Practica2\bin\Debug\Prac2venta.pdb
+D:\7º\Programacion\Projects\P2\Practica2\Practica2\obj\Debug\ResolveAssemblyReference.cache
+D:\7º\Programacion\Projects\P2\Practica2\Practica2\obj\Debug\Practica2.Form1.resources
+D:\7º\Programacion\Projects\P2\Practica2\Practica2\obj\Debug\Practica2.Properties.Resources.resources
+D:\7º\Programacion\Projects\P2\Practica2\Practica2\obj\Debug\Practica2.csproj.GenerateResource.Cache
+E:\7º\Programacion\Projects\P2\Practica2\Practica2\obj\Debug\Practica2.exe
+E:\7º\Programacion\Projects\P2\Practica2\Practica2\obj\Debug\Practica2.pdb
+E:\7º\Programacion\Projects\P2\Practica2\Practica2\bin\Debug\Practica2.exe
+E:\7º\Programacion\Projects\P2\Practica2\Practica2\bin\Debug\Practica2.pdb
+E:\7º\Programacion\Projects\P2\Practica2\Practica2\bin\Debug\Prac2Vendedor.dll
+E:\7º\Programacion\Projects\P2\Practica2\Practica2\bin\Debug\Prac2venta.dll
+E:\7º\Programacion\Projects\P2\Practica2\Practica2\bin\Debug\Prac2Vendedor.pdb
+E:\7º\Programacion\Projects\P2\Practica2\Practica2\bin\Debug\Prac2venta.pdb
+E:\7º\Programacion\Projects\P2\Practica2\Practica2\obj\Debug\ResolveAssemblyReference.cache
+E:\7º\Programacion\Projects\P2\Practica2\Practica2\obj\Debug\Practica2.Form1.resources
+E:\7º\Programacion\Projects\P2\Practica2\Practica2\obj\Debug\Practica2.Properties.Resources.resources
+E:\7º\Programacion\Projects\P2\Practica2\Practica2\obj\Debug\Practica2.csproj.GenerateResource.Cache
+F:\7º\Programacion\Projects\P2\Practica2\Practica2\obj\Debug\Practica2.exe
+F:\7º\Programacion\Projects\P2\Practica2\Practica2\obj\Debug\Practica2.pdb
+F:\7º\Programacion\Projects\P2\Practica2\Practica2\bin\Debug\Practica2.exe
+F:\7º\Programacion\Projects\P2\Practica2\Practica2\bin\Debug\Practica2.pdb
+F:\7º\Programacion\Projects\P2\Practica2\Practica2\bin\Debug\Prac2Vendedor.dll
+F:\7º\Programacion\Projects\P2\Practica2\Practica2\bin\Debug\Prac2venta.dll
+F:\7º\Programacion\Projects\P2\Practica2\Practica2\bin\Debug\Prac2Vendedor.pdb
+F:\7º\Programacion\Projects\P2\Practica2\Practica2\bin\Debug\Prac2venta.pdb
+F:\7º\Programacion\Projects\P2\Practica2\Practica2\obj\Debug\ResolveAssemblyReference.cache
+F:\7º\Programacion\Projects\P2\Practica2\Practica2\obj\Debug\Practica2.Form1.resources
+F:\7º\Programacion\Projects\P2\Practica2\Practica2\obj\Debug\Practica2.Properties.Resources.resources
+F:\7º\Programacion\Projects\P2\Practica2\Practica2\obj\Debug\Practica2.csproj.GenerateResource.Cache
+D:\Visal Studio\Programacion\1\Projects\P2\Practica2\Practica2\bin\Debug\Practica2.exe.config
+D:\Visal Studio\Programacion\1\Projects\P2\Practica2\Practica2\obj\Debug\Practica2.exe
+D:\Visal Studio\Programacion\1\Projects\P2\Practica2\Practica2\obj\Debug\Practica2.pdb
+D:\Visal Studio\Programacion\1\Projects\P2\Practica2\Practica2\bin\Debug\Practica2.exe
+D:\Visal Studio\Programacion\1\Projects\P2\Practica2\Practica2\bin\Debug\Practica2.pdb
+D:\Visal Studio\Programacion\1\Projects\P2\Practica2\Practica2\bin\Debug\Prac2Vendedor.dll
+D:\Visal Studio\Programacion\1\Projects\P2\Practica2\Practica2\bin\Debug\Prac2venta.dll
+D:\Visal Studio\Programacion\1\Projects\P2\Practica2\Practica2\bin\Debug\Prac2Vendedor.pdb
+D:\Visal Studio\Programacion\1\Projects\P2\Practica2\Practica2\bin\Debug\Prac2venta.pdb
+D:\Visal Studio\Programacion\1\Projects\P2\Practica2\Practica2\obj\Debug\Practica2.csprojResolveAssemblyReference.cache
+D:\Visal Studio\Programacion\1\Projects\P2\Practica2\Practica2\obj\Debug\Practica2.Form1.resources
+D:\Visal Studio\Programacion\1\Projects\P2\Practica2\Practica2\obj\Debug\Practica2.Properties.Resources.resources
+D:\Visal Studio\Programacion\1\Projects\P2\Practica2\Practica2\obj\Debug\Practica2.csproj.GenerateResource.Cache

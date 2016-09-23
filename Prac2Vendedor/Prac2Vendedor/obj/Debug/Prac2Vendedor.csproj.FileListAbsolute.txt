@@ -1,0 +1,7 @@
+D:\7º\Programacion\Projects\P2\Prac2Vendedor\Prac2Vendedor\bin\Debug\Prac2Vendedor.dll
+D:\7º\Programacion\Projects\P2\Prac2Vendedor\Prac2Vendedor\bin\Debug\Prac2Vendedor.pdb
+D:\7º\Programacion\Projects\P2\Prac2Vendedor\Prac2Vendedor\bin\Debug\Prac2venta.dll
+D:\7º\Programacion\Projects\P2\Prac2Vendedor\Prac2Vendedor\bin\Debug\Prac2venta.pdb
+D:\7º\Programacion\Projects\P2\Prac2Vendedor\Prac2Vendedor\obj\Debug\ResolveAssemblyReference.cache
+D:\7º\Programacion\Projects\P2\Prac2Vendedor\Prac2Vendedor\obj\Debug\Prac2Vendedor.dll
+D:\7º\Programacion\Projects\P2\Prac2Vendedor\Prac2Vendedor\obj\Debug\Prac2Vendedor.pdb

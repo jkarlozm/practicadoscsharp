@@ -1,0 +1,5 @@
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Prac2venta\Prac2venta\bin\Release\Prac2venta.dll
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Prac2venta\Prac2venta\bin\Release\Prac2venta.pdb
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Prac2venta\Prac2venta\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Prac2venta\Prac2venta\obj\Release\Prac2venta.dll
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Prac2venta\Prac2venta\obj\Release\Prac2venta.pdb

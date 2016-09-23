@@ -1,0 +1,21 @@
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Prac2Vendedor\Prac2Vendedor\bin\Release\Prac2Vendedor.dll
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Prac2Vendedor\Prac2Vendedor\bin\Release\Prac2Vendedor.pdb
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Prac2Vendedor\Prac2Vendedor\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Prac2Vendedor\Prac2Vendedor\obj\Release\Prac2Vendedor.dll
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Prac2Vendedor\Prac2Vendedor\obj\Release\Prac2Vendedor.pdb
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Prac2Vendedor\Prac2Vendedor\bin\Release\Prac2venta.dll
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Prac2Vendedor\Prac2Vendedor\bin\Release\Prac2venta.pdb
+D:\7º\Programacion\Projects\P2\Prac2Vendedor\Prac2Vendedor\bin\Release\Prac2Vendedor.dll
+D:\7º\Programacion\Projects\P2\Prac2Vendedor\Prac2Vendedor\bin\Release\Prac2Vendedor.pdb
+D:\7º\Programacion\Projects\P2\Prac2Vendedor\Prac2Vendedor\bin\Release\Prac2venta.dll
+D:\7º\Programacion\Projects\P2\Prac2Vendedor\Prac2Vendedor\bin\Release\Prac2venta.pdb
+D:\7º\Programacion\Projects\P2\Prac2Vendedor\Prac2Vendedor\obj\Release\ResolveAssemblyReference.cache
+D:\7º\Programacion\Projects\P2\Prac2Vendedor\Prac2Vendedor\obj\Release\Prac2Vendedor.dll
+D:\7º\Programacion\Projects\P2\Prac2Vendedor\Prac2Vendedor\obj\Release\Prac2Vendedor.pdb
+E:\7º\Programacion\Projects\P2\Prac2Vendedor\Prac2Vendedor\bin\Release\Prac2Vendedor.dll
+E:\7º\Programacion\Projects\P2\Prac2Vendedor\Prac2Vendedor\bin\Release\Prac2Vendedor.pdb
+E:\7º\Programacion\Projects\P2\Prac2Vendedor\Prac2Vendedor\bin\Release\Prac2venta.dll
+E:\7º\Programacion\Projects\P2\Prac2Vendedor\Prac2Vendedor\bin\Release\Prac2venta.pdb
+E:\7º\Programacion\Projects\P2\Prac2Vendedor\Prac2Vendedor\obj\Release\ResolveAssemblyReference.cache
+E:\7º\Programacion\Projects\P2\Prac2Vendedor\Prac2Vendedor\obj\Release\Prac2Vendedor.dll
+E:\7º\Programacion\Projects\P2\Prac2Vendedor\Prac2Vendedor\obj\Release\Prac2Vendedor.pdb

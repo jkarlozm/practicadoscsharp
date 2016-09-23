@@ -1,0 +1,12 @@
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Practica2\Practica2\bin\Release\Practica2.exe
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Practica2\Practica2\bin\Release\Practica2.pdb
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Practica2\Practica2\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Practica2\Practica2\obj\Release\Practica2.Form1.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Practica2\Practica2\obj\Release\Practica2.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Practica2\Practica2\obj\Release\Practica2.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Practica2\Practica2\obj\Release\Practica2.exe
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Practica2\Practica2\obj\Release\Practica2.pdb
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Practica2\Practica2\bin\Release\Prac2Vendedor.dll
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Practica2\Practica2\bin\Release\Prac2venta.dll
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Practica2\Practica2\bin\Release\Prac2Vendedor.pdb
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Practica2\Practica2\bin\Release\Prac2venta.pdb
